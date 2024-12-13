@@ -48,20 +48,20 @@ Developed insights highlighting key trends, patterns, and correlations:
 ---
 
 ## Insights
-1.The 'New Orleans Pelicans' has the highest number of employees, slightly exceeding others.
-2.The 'Minnesota Timberwolves','Orlando Magic' have the lowest employee count compared to other teams.
-3.The distribution of employees appears fairly even across all teams, with slight variations. Most teams have a similar number of employees (around 15).
-4.The 'SG' position has the highest number of employees, with a count above 100. This suggests it is the most common role in the organization.
-5.The 'C' position has the lowest employee count at 79. This could indicate a smaller demand for this role.
-6.The majority of employees (346) belong to the age group '20-30'. This indicates that the organization primarily employs younger individuals, possibly early-career professionals.
-7.The age group '30-40' has 91 employees, significantly lower than the 20-30 group. This may indicate a trend where employees in this age range move on to other roles or organizations.
-8.No employees are represented in the '40-50' and '50-60' age groups. This could indicate a lack of senior-level professionals or a focus on hiring younger talent.
-9.The 'Cleveland Cavaliers' is top team with the highest salary expenditures.
-10.The Philadelphia 76ers have the lowest salary expenditure among the teams
-11.Position 'C' appears to have the highest total salary.
-12.Position 'SG' appears to have the lowest total salary
-13.The value between Age and Salary is 0.21, indicating a weak positive correlation.
-14.This means that as age increases, salary tends to increase slightly, but the relationship is not strong.
+1.The 'New Orleans Pelicans' has the highest number of employees, slightly exceeding others.\
+2.The 'Minnesota Timberwolves','Orlando Magic' have the lowest employee count compared to other teams.\
+3.The distribution of employees appears fairly even across all teams, with slight variations. Most teams have a similar number of employees (around 15).\
+4.The 'SG' position has the highest number of employees, with a count above 100. This suggests it is the most common role in the organization.\
+5.The 'C' position has the lowest employee count at 79. This could indicate a smaller demand for this role.\
+6.The majority of employees (346) belong to the age group '20-30'. This indicates that the organization primarily employs younger individuals, possibly early-career professionals.\
+7.The age group '30-40' has 91 employees, significantly lower than the 20-30 group. This may indicate a trend where employees in this age range move on to other roles or organizations.\
+8.No employees are represented in the '40-50' and '50-60' age groups. This could indicate a lack of senior-level professionals or a focus on hiring younger talent.\
+9.The 'Cleveland Cavaliers' is top team with the highest salary expenditures.\
+10.The Philadelphia 76ers have the lowest salary expenditure among the teams.\
+11.Position 'C' appears to have the highest total salary.\
+12.Position 'SG' appears to have the lowest total salary.\
+13.The value between Age and Salary is 0.21, indicating a weak positive correlation.\
+14.This means that as age increases, salary tends to increase slightly, but the relationship is not strong.\
 
 ---
 
